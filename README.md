@@ -37,4 +37,8 @@ This project features a **Pizza Sales Dashboard** designed in **Power BI** with 
 - Integrating more advanced predictive analytics for sales forecasting.  
 - Expanding the dataset for more comprehensive analysis.  
 
+**Dashboard**
+
+![Pizza Sales Analysis Dashboard]()
+
 
