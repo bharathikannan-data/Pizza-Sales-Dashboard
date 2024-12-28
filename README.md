@@ -32,10 +32,7 @@ This project features a **Pizza Sales Dashboard** designed in **Power BI** with 
 - **Performance Metrics:** Identify best-selling and least-selling pizzas by various measures.  
 - **Trends:** Understand how sales vary by days of the week and months of the year.  
 
-## Future Enhancements  
-- Automating data updates.  
-- Integrating more advanced predictive analytics for sales forecasting.  
-- Expanding the dataset for more comprehensive analysis.  
+  
 
 **Dashboard**
 
