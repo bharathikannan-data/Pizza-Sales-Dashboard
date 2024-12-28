@@ -22,7 +22,7 @@ This project features a **Pizza Sales Dashboard** designed in **Power BI** with 
 - **SQL**: For querying and analyzing data to generate insights.  
 
 ## Files Included  
-- `Pizza Sales Dashboard.pbix`: Power BI dashboard file containing visualizations and analysis.  
+- `https://github.com/bharathikannan-data/Pizza-Sales-Dashboard/blob/main/Pizza%20sales%20Dashboard.pbix`: Power BI dashboard file containing visualizations and analysis.  
 - `PIZZA SALES SQL QUERIES.docx`: A collection of SQL queries used to compute KPIs and other metrics.  
 
 
