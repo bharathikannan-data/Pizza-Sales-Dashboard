@@ -39,6 +39,6 @@ This project features a **Pizza Sales Dashboard** designed in **Power BI** with 
 
 **Dashboard**
 
-![Pizza Sales Analysis Dashboard]()
+![Pizza Sales Analysis Dashboard](https://github.com/bharathikannan-data/Pizza-Sales-Dashboard/blob/main/Pizza%20Sales%20Analysis%20Dashboard%20Picture.pdf)
 
 
