@@ -39,7 +39,7 @@ This project features a **Pizza Sales Dashboard** designed in **Power BI** with 
 
 **Dashboard**
 
-![Pizza Sales Analysis Dashboard](![Screenshot 2024-12-27 162301](https://github.com/user-attachments/assets/ff21302b-a339-472b-a75f-a53851412435)
-)
+[Pizza Sales Analysis Dashboard]![Screenshot 2024-12-27 162301](https://github.com/user-attachments/assets/ff21302b-a339-472b-a75f-a53851412435)
+
 
 
