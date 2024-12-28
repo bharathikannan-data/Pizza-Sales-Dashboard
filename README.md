@@ -25,10 +25,7 @@ This project features a **Pizza Sales Dashboard** designed in **Power BI** with 
 - `Pizza Sales Dashboard.pbix`: Power BI dashboard file containing visualizations and analysis.  
 - `PIZZA SALES SQL QUERIES.docx`: A collection of SQL queries used to compute KPIs and other metrics.  
 
-## How to Use  
-1. Clone or download this repository.  
-2. Open the `Pizza Sales Dashboard.pbix` file in Power BI Desktop to explore the dashboard.  
-3. Review `PIZZA SALES SQL QUERIES.docx` to understand the underlying data queries and replicate them if needed.  
+
 
 ## Insights  
 - **Revenue Drivers:** Which categories and sizes contribute the most to revenue.  
@@ -40,5 +37,4 @@ This project features a **Pizza Sales Dashboard** designed in **Power BI** with 
 - Integrating more advanced predictive analytics for sales forecasting.  
 - Expanding the dataset for more comprehensive analysis.  
 
-## Acknowledgments  
-Special thanks to [Data Tutorials YT Channel](#) for inspiration and guidance.  
+
